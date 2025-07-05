@@ -1,0 +1,9 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sanjay12nishad032009:V9B3wqktaCSzCmFy@cluster0.fhbvc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: schoolDb
+      auto-index-creation: true
+  main:
+    allow-circular-references: true
